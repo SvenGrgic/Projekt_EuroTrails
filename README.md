@@ -28,6 +28,8 @@ U uputama za 2. fazu ne piše da je taj novi članak bitno spremati, nego da se 
 3. faza: MySQL
 Dodana baza podataka u koju se spremaju unesene promjene na člancima. 
 Logika je prenesena u isključivo .php datoteke koje su zamjenile stare, fiksne .html članke.
+Primjera radi, u bazu su uneseni po jedan primjer za svaku od dvije grupe članaka, te jedan arhivirani primjer.
+Prilikom testiranja, slobodno unesite testne primjere po želji kako bi raspored "3 članka po redu" bio vidljiv.
 -----------------------------------------------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------------------------------------------------
